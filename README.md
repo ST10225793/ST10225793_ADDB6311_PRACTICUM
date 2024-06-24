@@ -19,7 +19,8 @@ Setup
 Clone Repository: Clone this repository to your local machine:
 
 bash
-git clone https://github.com/your/repository.git
+git clone https://github.com/ST10225793/ST10225793_ADDB6311_PRACTICUM.git
+
 Open index.html: Open index.html in a web browser (Chrome, Firefox, etc.).
 
 Usage
